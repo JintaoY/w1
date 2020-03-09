@@ -5,5 +5,7 @@ public class ChanceController {
 
         System.out.println("不同人的版本控制");
 
+        System.out.println("123123");
+
     }
 }
