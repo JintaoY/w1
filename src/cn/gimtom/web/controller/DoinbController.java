@@ -5,5 +5,7 @@ public class DoinbController {
 
         System.out.println("删除文件增加文件");
 
+        System.out.println("先进行pull，在push");
+
     }
 }
