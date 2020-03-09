@@ -2,6 +2,7 @@ package cn.gimtom.web.controller;
 
 /**
  * 没有对这个进行更新
+ * 如果我对这个文件进行了操作，就更新不到
  */
 public class DoinbController {
     public static void main(String[] args) {
