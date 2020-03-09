@@ -5,5 +5,7 @@ public class WordService {
 
         System.out.println("Git 第一次");
 
+        System.out.println("Git 第二次");
+
     }
 }
